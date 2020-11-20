@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bag on Buckethead Creations</title>
-    <link>http://example.org/tags/bag/</link>
+    <link>http://buckethead.rocks/tags/bag/</link>
     <description>Recent content in bag on Buckethead Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jun 2020 14:43:21 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/bag/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://buckethead.rocks/tags/bag/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Squid Pouch</title>
-      <link>http://example.org/projects/squid_pouch/</link>
+      <link>http://buckethead.rocks/projects/squid_pouch/</link>
       <pubDate>Thu, 18 Jun 2020 14:43:21 +0100</pubDate>
       
-      <guid>http://example.org/projects/squid_pouch/</guid>
+      <guid>http://buckethead.rocks/projects/squid_pouch/</guid>
       <description>Pattern Pattern by Choly Knight
 Materials Shannon cuddle electric blue, sky blue, light blue invisible zip, Dashwood Studios Laska cotton whales
 All bought from plush addict
