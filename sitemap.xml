@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-09-20T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/choly-knight/</loc>
+    <lastmod>2020-09-20T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/ophanim/</loc>
+    <lastmod>2020-09-20T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/plush/</loc>
+    <lastmod>2020-09-20T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/</loc>
+    <lastmod>2020-09-20T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/self-drafted/</loc>
+    <lastmod>2020-09-20T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-09-20T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/humanoid/</loc>
+    <lastmod>2020-09-05T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/saitama/</loc>
+    <lastmod>2020-09-05T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/izuku_midoriya/</loc>
+    <lastmod>2020-08-19T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/bag/</loc>
+    <lastmod>2020-06-18T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/squid_pouch/</loc>
+    <lastmod>2020-06-18T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/diyfluffies/</loc>
+    <lastmod>2020-02-21T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/koala/</loc>
+    <lastmod>2020-02-21T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+</urlset>

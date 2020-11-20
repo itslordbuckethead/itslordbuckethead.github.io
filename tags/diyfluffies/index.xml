@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIYFluffies on Buckethead Creations</title>
+    <link>http://example.org/tags/diyfluffies/</link>
+    <description>Recent content in DIYFluffies on Buckethead Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Feb 2020 14:43:21 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/diyfluffies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Koala</title>
+      <link>http://example.org/projects/koala/</link>
+      <pubDate>Fri, 21 Feb 2020 14:43:21 +0100</pubDate>
+      
+      <guid>http://example.org/projects/koala/</guid>
+      <description>Pattern Pattern by DIYFluffies/Mariska Vos-Bolman
+Materials Shannon cuddle platinum, black, white, sky blue, kelly green Black felt, white buttons
+All bought from plush addict
+Gallery </description>
+    </item>
+    
+  </channel>
+</rss>
