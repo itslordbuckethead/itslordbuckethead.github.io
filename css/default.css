@@ -334,17 +334,25 @@ p > img {
 }
 
 
+@media (max-width: 570px) { 
+
+	.links-wrapper {
+		grid-template-columns: 1fr 1fr;
+	}
+}
+/*
 @media (max-width: 420px) { 
 
 	.links-wrapper {
 		grid-template-columns: 1fr;
 	}
-}
+}*/
 
-@media (min-width: 421px) { 
+
+@media (min-width: 571px) { 
 
 	.links-wrapper {
-		grid-template-columns: 1fr 1fr 1fr;
+		grid-template-columns: 1fr 1fr 1fr 1fr;
 	}
 }
 
@@ -402,7 +410,7 @@ p > img {
 	color: #fff;
 	font-size: large;
 	text-align: center;
-	width: 50%;
+	width: 80%;
 	padding: 5px;
 	margin: 0 auto;
 }
@@ -453,12 +461,15 @@ footer {
 }
 
 
-
+.u-banner {
+	width: 100%;
+	padding: 20px;
+}
 
 
 .u-logo img {
     background-color:#fff;
-    border:5px solid black;
+    border:5px solid #6c757d;
     height: 300px;
 	width: 300px;    
     border-radius:50%;
@@ -497,3 +508,26 @@ footer {
   color: #fff;
 }
 
+.post-box {
+	background-color: #6c757d;
+	color: #fff;
+	padding: 20px;
+	width: 80%;
+	display: grid;
+	grid-template-columns: 100px 1fr;
+	margin: auto;
+	margin-bottom: 10px;
+
+}
+
+.post-thumbnail {
+	height: 100px;
+	width: 100px;
+}
+.post-info-container {
+	padding-left: 10px;
+}
+
+.twitter-text {
+	margin-top: 8px;
+}
