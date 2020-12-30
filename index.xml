@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>blog entry 1</title>
+      <link>http://buckethead.rocks/blog/blog1/</link>
+      <pubDate>Sun, 13 Dec 2020 14:43:21 +0100</pubDate>
+      
+      <guid>http://buckethead.rocks/blog/blog1/</guid>
+      <description>this is a blog entry</description>
+    </item>
+    
+    <item>
       <title>Eustace - Gamblers Delight</title>
       <link>http://buckethead.rocks/projects/eustace/</link>
       <pubDate>Sun, 13 Dec 2020 14:43:21 +0100</pubDate>

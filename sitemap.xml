@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://buckethead.rocks/blog/</loc>
+    <lastmod>2020-12-13T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buckethead.rocks/tags/blog/</loc>
+    <lastmod>2020-12-13T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buckethead.rocks/blog/blog1/</loc>
+    <lastmod>2020-12-13T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://buckethead.rocks/</loc>
     <lastmod>2020-12-13T14:43:21+01:00</lastmod>
   </url>
