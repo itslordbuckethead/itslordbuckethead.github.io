@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>toot on Buckethead Creations</title>
+    <link>http://buckethead.rocks/tags/toot/</link>
+    <description>Recent content in toot on Buckethead Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://buckethead.rocks/tags/toot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>toot prototyping - arms and head</title>
+      <link>http://buckethead.rocks/blog/toot5/</link>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://buckethead.rocks/blog/toot5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>toot prototyping - using gussets</title>
+      <link>http://buckethead.rocks/blog/toot4/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://buckethead.rocks/blog/toot4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>toot prototyping - using darts</title>
+      <link>http://buckethead.rocks/blog/toot3/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://buckethead.rocks/blog/toot3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>toot initial prototyping process continued</title>
+      <link>http://buckethead.rocks/blog/toot2/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://buckethead.rocks/blog/toot2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>toot initial prototyping process</title>
+      <link>http://buckethead.rocks/blog/toot1/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://buckethead.rocks/blog/toot1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -514,7 +514,7 @@ footer {
 	padding: 20px;
 	width: 80%;
 	display: grid;
-	grid-template-columns: 100px 1fr;
+	grid-template-columns: 100px 1fr 100px;
 	margin: auto;
 	margin-bottom: 10px;
 
@@ -530,4 +530,19 @@ footer {
 
 .twitter-text {
 	margin-top: 8px;
+}
+
+.spacer {
+	margin: 10px;
+}
+
+.e-content {
+	width: 80%;
+	margin: auto;
+}
+
+.tag-link {
+	font-size: x-large;
+	text-decoration: underline;
+	color: #2acfea;
 }
