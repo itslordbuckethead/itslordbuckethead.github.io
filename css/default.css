@@ -562,6 +562,10 @@ span.second-label{
 .align {
 	font: 400 15px Arial;
 }
+
+first-label {
+	text-align: center;
+}
 .second-label {
 	font: 400 15px Arial;
 	color: #000
