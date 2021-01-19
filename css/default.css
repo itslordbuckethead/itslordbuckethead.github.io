@@ -500,6 +500,7 @@ footer {
 .default-outline {
   border-color: #e7e7e7;
   color: #fff;
+  height: 43px;
 }
 
 .default-outline:hover {
@@ -546,4 +547,22 @@ footer {
 	font-size: x-large;
 	text-decoration: underline;
 	color: #2acfea;
+}
+
+span.second-label{
+ display:none;
+}
+.item:hover span.align{
+ display:none;
+}
+.item:hover span.second-label{
+ display:block;
+}
+
+.align {
+	font: 400 15px Arial;
+}
+.second-label {
+	font: 400 15px Arial;
+	color: #000
 }
