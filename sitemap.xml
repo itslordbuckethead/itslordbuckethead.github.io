@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://buckethead.rocks/blog/</loc>
-    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
+    <loc>http://buckethead.rocks/</loc>
+    <lastmod>2021-02-06T13:19:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://buckethead.rocks/</loc>
-    <lastmod>2021-01-09T00:00:00+00:00</lastmod>
+    <loc>http://buckethead.rocks/tags/plush/</loc>
+    <lastmod>2021-02-06T13:19:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buckethead.rocks/projects/</loc>
+    <lastmod>2021-02-06T13:19:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buckethead.rocks/tags/self-drafted/</loc>
+    <lastmod>2021-02-06T13:19:26+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://buckethead.rocks/tags/</loc>
+    <lastmod>2021-02-06T13:19:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buckethead.rocks/projects/toot/</loc>
+    <lastmod>2021-02-06T13:19:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://buckethead.rocks/blog/</loc>
     <lastmod>2021-01-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,22 +83,7 @@
   </url>
   
   <url>
-    <loc>http://buckethead.rocks/tags/plush/</loc>
-    <lastmod>2020-12-13T14:43:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://buckethead.rocks/projects/</loc>
-    <lastmod>2020-12-13T14:43:21+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://buckethead.rocks/projects/ophanim/</loc>
-    <lastmod>2020-09-20T14:43:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://buckethead.rocks/tags/self-drafted/</loc>
     <lastmod>2020-09-20T14:43:21+01:00</lastmod>
   </url>
   

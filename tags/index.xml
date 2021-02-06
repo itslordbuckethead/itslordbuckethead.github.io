@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Buckethead Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Feb 2021 13:19:26 +0000</lastBuildDate>
     
 	<atom:link href="http://buckethead.rocks/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>plush</title>
+      <link>http://buckethead.rocks/tags/plush/</link>
+      <pubDate>Sat, 06 Feb 2021 13:19:26 +0000</pubDate>
+      
+      <guid>http://buckethead.rocks/tags/plush/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self drafted</title>
+      <link>http://buckethead.rocks/tags/self-drafted/</link>
+      <pubDate>Sat, 06 Feb 2021 13:19:26 +0000</pubDate>
+      
+      <guid>http://buckethead.rocks/tags/self-drafted/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>toot</title>
@@ -35,24 +53,6 @@
       <pubDate>Sun, 13 Dec 2020 14:43:21 +0100</pubDate>
       
       <guid>http://buckethead.rocks/tags/humanoid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plush</title>
-      <link>http://buckethead.rocks/tags/plush/</link>
-      <pubDate>Sun, 13 Dec 2020 14:43:21 +0100</pubDate>
-      
-      <guid>http://buckethead.rocks/tags/plush/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>self drafted</title>
-      <link>http://buckethead.rocks/tags/self-drafted/</link>
-      <pubDate>Sun, 20 Sep 2020 14:43:21 +0100</pubDate>
-      
-      <guid>http://buckethead.rocks/tags/self-drafted/</guid>
       <description></description>
     </item>
     
