@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nazfx on Buckethead Creations</title>
+    <link>http://buckethead.rocks/tags/nazfx/</link>
+    <description>Recent content in nazfx on Buckethead Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 May 2021 14:43:21 +0100</lastBuildDate>
+    
+	<atom:link href="http://buckethead.rocks/tags/nazfx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Garlic - Into the Mists</title>
+      <link>http://buckethead.rocks/projects/garlic/</link>
+      <pubDate>Thu, 13 May 2021 14:43:21 +0100</pubDate>
+      
+      <guid>http://buckethead.rocks/projects/garlic/</guid>
+      <description>References Art by @kenha604.
+Pattern humanoid pattern and abs tutorial by Nazfx + self drafting
+Time Two months.
+Gallery Maker&amp;rsquo;s Notes Body Patterning I started with a store bought plushie from the spirit TV show, as it had the leg and hip definition I was looking to emulate.
+I tore it apart and copied the pattern, scanning it into the computer so that I could edit the lines using the path tool in gimp as per my standard workflow.</description>
+    </item>
+    
+  </channel>
+</rss>

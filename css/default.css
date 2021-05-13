@@ -570,3 +570,7 @@ span.second-label{
 	font: 400 15px Arial;
 	color: #000
 }
+
+.big {
+	max-width: 100%; !important
+}
