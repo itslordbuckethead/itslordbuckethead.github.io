@@ -352,7 +352,7 @@ p > img {
 @media (min-width: 571px) { 
 
 	.links-wrapper {
-		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-template-columns: 1fr 1fr 1fr;
 	}
 }
 
