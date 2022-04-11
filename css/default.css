@@ -43,6 +43,15 @@ a {
 	text-decoration: none;
 }
 
+
+
+.u-photo {
+	max-width:100%;
+	max-height:300px;
+	object-fit: contain;
+}
+
+
 .container {
 	width: 100%;
 	position: relative;
@@ -303,11 +312,6 @@ p > a:hover {
 	color: #333333;
 }
 
-p > img {
-	max-width: 30%;
-	padding-top: 5px;
-	padding-bottom: 5px;
-}
 
 
 .heading {
@@ -317,11 +321,6 @@ p > img {
 	align-items: center;
 }
 
-.u-photo {
-	max-width:100%;
-	max-height:300px;
-	object-fit: contain;
-}
 
 
 .links-wrapper {
